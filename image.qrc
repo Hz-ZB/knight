@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/knight.png</file>
+        <file>Image/reachable.png</file>
+        <file>Image/reached.png</file>
+        <file>Image/title.png</file>
+        <file>Image/button.png</file>
+        <file>Image/background.png</file>
+        <file>Image/empty.png</file>
+        <file>Image/menu.png</file>
+        <file>Image/white.png</file>
+        <file>Image/unused.png</file>
+    </qresource>
+</RCC>
